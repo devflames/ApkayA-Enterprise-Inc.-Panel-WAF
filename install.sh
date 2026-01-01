@@ -173,7 +173,7 @@ install_application() {
     # Clone or prepare application
     if [[ ! -d "$INSTALL_DIR" ]]; then
         print_info "Cloning repository..."
-        git clone https://github.com/apkaya/apkaya-panel-waf.git "$INSTALL_DIR"
+        git clone https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF.git "$INSTALL_DIR"
     else
         print_info "Updating existing installation..."
         cd "$INSTALL_DIR" && git pull origin main

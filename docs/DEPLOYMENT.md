@@ -635,7 +635,7 @@ sudo ufw delete allow 72323/tcp
 ## Support & Contribution
 
 - **Documentation:** https://docs.apkaya.com
-- **GitHub Issues:** https://github.com/apkaya/apkaya-panel-waf/issues
+- **GitHub Issues:** https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF/issues
 - **Community Forum:** https://forum.apkaya.com
 - **Email Support:** support@apkaya.com
 

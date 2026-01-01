@@ -350,7 +350,7 @@ The core team handles releases:
 
 ```bash
 # Clone and setup
-git clone https://github.com/apkaya/apkaya-panel-waf.git
+git clone https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF.git
 cd apkaya-panel-waf
 
 # Create virtual environment

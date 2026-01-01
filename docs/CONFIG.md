@@ -251,9 +251,9 @@ python run.py --port 9999
 
 ## Support
 
-- Documentation: https://github.com/apkaya/panel-waf/wiki
-- Issues: https://github.com/apkaya/panel-waf/issues
-- Discussions: https://github.com/apkaya/panel-waf/discussions
+- Documentation: https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF/wiki
+- Issues: https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF/issues
+- Discussions: https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF/discussions
 
 ## License
 

@@ -364,8 +364,8 @@ pymongo>=4.0.0
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/apkaya-panel-waf.git
-cd apkaya-panel-waf
+git clone https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF.git
+cd ApkayA-Enterprise-Inc.-Panel-WAF
 
 # 2. Install Python dependencies
 pip install -r requirements.txt
@@ -388,8 +388,8 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install python3.12 python3.12-venv nginx mysql-server -y
 
 # 3. Clone and setup
-git clone https://github.com/yourusername/apkaya-panel-waf.git
-cd apkaya-panel-waf
+git clone https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF.git
+cd ApkayA-Enterprise-Inc.-Panel-WAF
 
 # 4. Create virtual environment
 python3.12 -m venv venv
@@ -447,39 +447,41 @@ The following features have documented limitations in v1.0.0:
 
 ## 🗓️ Roadmap & Future Features
 
-### Phase 2 (Q1 2026) - Advanced Features
-- [ ] **AI-Powered Threat Detection** - Machine learning-based anomaly detection
-- [ ] **Kubernetes Integration** - Full K8s cluster management
-- [ ] **Advanced Monitoring** - Prometheus + Grafana integration
-- [ ] **Email Notifications** - SMTP configuration for alerts
-- [ ] **Webhooks Support** - Event-driven integrations
-- [ ] **Dark Mode** - System theme toggle
+### Phase 2 (Q1 2026) - Enhanced UI Interface
+- [ ] **Modern Dashboard Redesign** - Next-generation UI with glassmorphism design
+- [ ] **Dark Mode** - System-wide theme toggle with custom themes
+- [ ] **Real-time Analytics Dashboard** - Live charts and metrics visualization
+- [ ] **Drag & Drop Interface** - Intuitive file and configuration management
+- [ ] **Customizable Widgets** - Personalized dashboard layouts
+- [ ] **Mobile App** - Native iOS/Android companion app
 - [ ] **Multi-language Support** - i18n framework (Spanish, French, German, etc.)
+- [ ] **Accessibility Improvements** - WCAG 2.1 compliance
 
-### Phase 3 (Q2 2026) - Enterprise Features
+### Phase 3 (Q2 2026) - CDN & Content Delivery
+- [ ] **Built-in CDN** - Native content delivery network integration
+- [ ] **Gaming Server CDN** - Low-latency edge caching for game servers
+- [ ] **Blockchain CDN** - Decentralized content delivery for Web3 applications
+- [ ] **Edge Computing** - Serverless functions at edge locations
+- [ ] **Global PoP Network** - Multiple points of presence worldwide
+- [ ] **Video Streaming CDN** - HLS/DASH streaming support
+- [ ] **DDoS Protection** - Enterprise-grade attack mitigation
+- [ ] **Smart Routing** - AI-powered traffic optimization
+
+### Phase 4 (Q3 2026) - Enterprise & Automation
 - [ ] **LDAP/Active Directory** - Enterprise authentication
-- [ ] **Single Sign-On (SSO)** - SAML 2.0 support
-- [ ] **Role-Based Access Control (RBAC)** - Granular permissions
-- [ ] **Geo-Redundancy** - Multi-server management
-- [ ] **Advanced Reporting** - Custom report builder
-- [ ] **API Marketplace** - Third-party integrations
-- [ ] **Web Terminal** - SSH/Browser shell access
-- [ ] **VPN Management** - OpenVPN/WireGuard setup
-
-### Phase 4 (Q3 2026) - Automation & Intelligence
+- [ ] **Single Sign-On (SSO)** - SAML 2.0 & OAuth support
 - [ ] **Terraform Provider** - Infrastructure as Code support
 - [ ] **Ansible Playbooks** - Automated deployment
 - [ ] **CI/CD Integration** - GitHub Actions, GitLab CI
+- [ ] **Kubernetes Integration** - Full K8s cluster management
 - [ ] **Auto-scaling** - Automatic resource scaling
-- [ ] **Predictive Analytics** - Resource forecasting
-- [ ] **Smart Caching** - Redis/Memcached optimization
-- [ ] **Database Optimization** - Query analyzer and suggestions
-- [ ] **Code Deployment** - Git push-to-deploy workflow
+- [ ] **Advanced Monitoring** - Prometheus + Grafana integration
 
-### Phase 5 (Q4 2026) - Cloud & Scale
+### Phase 5 (Q4 2026) - Cloud & Intelligence
 - [ ] **Multi-Cloud Support** - AWS, Azure, GCP connectors
+- [ ] **AI-Powered Threat Detection** - Machine learning anomaly detection
+- [ ] **Predictive Analytics** - Resource forecasting
 - [ ] **Load Balancing** - Advanced LB configuration
-- [ ] **CDN Integration** - CloudFlare, AWS CloudFront
 - [ ] **Container Registry** - Private Docker registry
 - [ ] **Serverless Support** - AWS Lambda, Azure Functions
 - [ ] **Disaster Recovery** - Automated failover
@@ -538,7 +540,7 @@ We welcome contributions! Please follow our [Contributing Guidelines](CONTRIBUTI
 ### Development Setup
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/apkaya-panel-waf.git
+git clone https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF.git
 
 # Create feature branch
 git checkout -b feature/amazing-feature
@@ -565,8 +567,8 @@ pytest tests/
 ## 📞 Support & Community
 
 - **Discord Server** - [Join Community](https://discord.gg/apkaya)
-- **GitHub Discussions** - [Ask Questions](https://github.com/apkaya/apkaya-panel-waf/discussions)
-- **Issue Tracker** - [Report Bugs](https://github.com/apkaya/apkaya-panel-waf/issues)
+- **GitHub Discussions** - [Ask Questions](https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF/discussions)
+- **Issue Tracker** - [Report Bugs](https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF/issues)
 - **Email Support** - support@apkaya.com
 - **Documentation** - https://docs.apkaya.com
 
@@ -625,11 +627,11 @@ Creator and maintainer of ApkayA Enterprise Control Panel. Passionate about buil
 
 ## 🚀 Quick Links
 
-- [GitHub Repository](https://github.com/apkaya/apkaya-panel-waf)
+- [GitHub Repository](https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF)
 - [Live Demo](https://demo.apkaya.com) (admin / demo)
 - [Documentation](https://docs.apkaya.com)
-- [Releases](https://github.com/apkaya/apkaya-panel-waf/releases)
-- [Issue Tracker](https://github.com/apkaya/apkaya-panel-waf/issues)
+- [Releases](https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF/releases)
+- [Issue Tracker](https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF/issues)
 
 ---
 

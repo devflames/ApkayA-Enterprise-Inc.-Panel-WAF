@@ -19,7 +19,7 @@ Get ApkayA Enterprise Control Panel running in minutes!
 
 ```bash
 # Download and run installation script
-curl -O https://raw.githubusercontent.com/apkaya/apkaya-panel-waf/main/install.sh
+curl -O https://raw.githubusercontent.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF/main/install.sh
 bash install.sh
 ```
 
@@ -37,8 +37,8 @@ After completion:
 
 ```bash
 # Clone repository
-git clone https://github.com/apkaya/apkaya-panel-waf.git
-cd apkaya-panel-waf
+git clone https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF.git
+cd ApkayA-Enterprise-Inc.-Panel-WAF
 
 # Start with Docker Compose
 docker-compose up -d
@@ -53,8 +53,8 @@ Access at: `http://localhost:72323`
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/apkaya/apkaya-panel-waf.git
-cd apkaya-panel-waf
+git clone https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF.git
+cd ApkayA-Enterprise-Inc.-Panel-WAF
 
 # 2. Create virtual environment
 python3 -m venv venv
@@ -275,8 +275,8 @@ proxy_set_header Connection "upgrade";
 
 ## 🆘 Support
 
-- **Issues:** [GitHub Issues](https://github.com/apkaya/apkaya-panel-waf/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/apkaya/apkaya-panel-waf/discussions)
+- **Issues:** [GitHub Issues](https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/devflames/ApkayA-Enterprise-Inc.-Panel-WAF/discussions)
 - **Email:** support@apkaya.com
 - **Documentation:** https://docs.apkaya.com
 
