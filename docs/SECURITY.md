@@ -4,7 +4,7 @@
 
 ## Overview
 
-Apkaya Panel WAF implements multiple layers of security to protect your server management interface.
+ApkayA Enterprise Control Panel implements multiple layers of security to protect your server management interface.
 
 ---
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ============================================================
-# Apkaya Panel WAF - Automated Installation Script
+# ApkayA Enterprise Control Panel - Automated Installation Script
 # Copyright (c) 2025-2026 Albert Camings
 # Developed by: Albert Camings (Full Stack Developer)
 # License: MIT License - Open Source

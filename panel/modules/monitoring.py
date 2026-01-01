@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Monitoring Module
+ApkayA Enterprise Control Panel - Monitoring Module
 Extended monitoring capabilities
 
 Copyright (c) 2025-2026 Albert Camings

@@ -2,7 +2,7 @@
 
 > **Developed by Albert Camings** | Full Stack Developer
 
-Get Apkaya Panel WAF running in minutes!
+Get ApkayA Enterprise Control Panel running in minutes!
 
 ## Prerequisites
 
@@ -315,6 +315,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Enjoy using Apkaya Panel WAF! 🚀**
+**Enjoy using ApkayA Enterprise Control Panel! 🚀**
 
 *Last Updated: January 2026*

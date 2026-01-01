@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Main Flask Application
+ApkayA Enterprise Control Panel - Main Flask Application
 
 Copyright (c) 2025-2026 Albert Camings
 Developed by: Albert Camings (Full Stack Developer)
@@ -132,7 +132,7 @@ def create_app():
         """API root endpoint - returns documentation"""
         return jsonify({
             'success': True,
-            'message': 'Apkaya Panel WAF API',
+            'message': 'ApkayA Enterprise Control Panel API',
             'version': '1.0.0',
             'documentation': '/api/docs',
             'modules': {

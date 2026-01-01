@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Panel Class Module
+ApkayA Enterprise Control Panel - Panel Class Module
 
 Copyright (c) 2025-2026 Albert Camings
 Developed by: Albert Camings (Full Stack Developer)

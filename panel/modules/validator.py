@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Input Validation & Security Module
+ApkayA Enterprise Control Panel - Input Validation & Security Module
 Handles all input validation and sanitization
 
 Copyright (c) 2025-2026 Albert Camings

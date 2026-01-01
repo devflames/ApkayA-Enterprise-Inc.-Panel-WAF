@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - WAF Integration Module
+ApkayA Enterprise Control Panel - WAF Integration Module
 Web Application Firewall configuration and API client
 
 Copyright (c) 2025-2026 Albert Camings

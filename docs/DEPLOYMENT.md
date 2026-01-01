@@ -1,8 +1,8 @@
-# 🚀 Apkaya Panel WAF - Deployment Guide
+# 🚀 ApkayA Enterprise Control Panel - Deployment Guide
 
 > **Developed by Albert Camings** | Full Stack Developer
 
-Complete guide for deploying Apkaya Panel WAF in production environments.
+Complete guide for deploying ApkayA Enterprise Control Panel in production environments.
 
 ---
 

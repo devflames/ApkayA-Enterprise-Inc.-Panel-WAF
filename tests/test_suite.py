@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Test Suite
+ApkayA Enterprise Control Panel - Test Suite
 Tests all implemented functionality using direct file imports
 
 Copyright (c) 2025-2026 Albert Camings

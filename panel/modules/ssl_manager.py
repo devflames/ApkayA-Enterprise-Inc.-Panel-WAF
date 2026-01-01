@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - SSL/TLS Certificate Management Module
+ApkayA Enterprise Control Panel - SSL/TLS Certificate Management Module
 Let's Encrypt ACME integration, certificate management, auto-renewal
 
 Copyright (c) 2025-2026 Albert Camings

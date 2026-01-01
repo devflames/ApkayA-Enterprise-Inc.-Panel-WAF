@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Backup Management Module
+ApkayA Enterprise Control Panel - Backup Management Module
 Full system backup, site backups, database backups with scheduling and cloud storage
 
 Copyright (c) 2025-2026 Albert Camings

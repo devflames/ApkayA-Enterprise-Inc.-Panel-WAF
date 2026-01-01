@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - API Security Module
+ApkayA Enterprise Control Panel - API Security Module
 Rate limiting, API key management, and request signing
 
 Copyright (c) 2025-2026 Albert Camings

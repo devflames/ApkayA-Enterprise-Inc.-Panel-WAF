@@ -1,4 +1,4 @@
-# Apkaya Panel WAF - Configuration Guide
+# ApkayA Enterprise Control Panel - Configuration Guide
 
 > **Developed by Albert Camings** | Full Stack Developer
 

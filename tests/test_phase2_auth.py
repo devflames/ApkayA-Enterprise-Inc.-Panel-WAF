@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Authentication Tests
+ApkayA Enterprise Control Panel - Authentication Tests
 Tests for auth endpoints, session management, and RBAC
 
 Copyright (c) 2025-2026 Albert Camings

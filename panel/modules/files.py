@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - File Manager Module
+ApkayA Enterprise Control Panel - File Manager Module
 
 Copyright (c) 2025-2026 Albert Camings
 Developed by: Albert Camings (Full Stack Developer)

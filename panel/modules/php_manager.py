@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - PHP Management Module
+ApkayA Enterprise Control Panel - PHP Management Module
 PHP version management, extensions, configuration
 
 Copyright (c) 2025-2026 Albert Camings

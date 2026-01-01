@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Logging & Audit Trail Module
+ApkayA Enterprise Control Panel - Logging & Audit Trail Module
 Comprehensive logging for all operations and security events
 
 Copyright (c) 2025-2026 Albert Camings

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Apkaya Panel WAF - Setup Script
+ApkayA Enterprise Control Panel - Setup Script
 
 Copyright (c) 2025-2026 Albert Camings
 Developed by: Albert Camings (Full Stack Developer)
@@ -128,7 +128,7 @@ def install_dependencies():
 
 def main():
     parser = argparse.ArgumentParser(
-        description='Apkaya Panel WAF - Setup and Installation'
+        description='ApkayA Enterprise Control Panel - Setup and Installation'
     )
     parser.add_argument('--no-deps', action='store_true',
                        help='Skip dependency installation')
@@ -138,7 +138,7 @@ def main():
     args = parser.parse_args()
     
     print('\n' + '='*60)
-    print('  Apkaya Panel WAF - Setup')
+    print('  ApkayA Enterprise Control Panel - Setup')
     print('  Open Source Edition (MIT License)')
     print('='*60 + '\n')
     

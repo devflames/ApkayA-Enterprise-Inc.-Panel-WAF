@@ -1,9 +1,9 @@
-# Apkaya Panel WAF
-# Open Source Server Management Panel with Integrated Web Application Firewall
+# ApkayA Enterprise Control Panel
+# Open Source Server Management Platform with Integrated Web Application Firewall
 # Licensed under MIT License - Free for any use
 
 """
-Apkaya Panel WAF - A unified server management panel with integrated WAF protection.
+ApkayA Enterprise Control Panel - A unified server management platform with integrated WAF protection.
 
 This is a clean, open-source implementation combining:
 - Server management panel (web hosting, databases, FTP, SSL, etc.)

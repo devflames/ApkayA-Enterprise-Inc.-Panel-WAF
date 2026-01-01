@@ -1,9 +1,9 @@
 # Changelog
 
-All notable changes to Apkaya Panel WAF will be documented in this file.
+All notable changes to ApkayA Enterprise Control Panel + WAF will be documented in this file.
 
 **Author:** Albert Camings (Full Stack Developer)  
-**Project:** Apkaya Panel WAF  
+**Project:** ApkayA Enterprise Control Panel + WAF  
 **License:** MIT
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),

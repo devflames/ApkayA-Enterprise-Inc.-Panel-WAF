@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - FTP Management Module
+ApkayA Enterprise Control Panel - FTP Management Module
 FTP server management, user accounts, permissions
 
 Copyright (c) 2025-2026 Albert Camings

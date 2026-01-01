@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Error Handling Module
+ApkayA Enterprise Control Panel - Error Handling Module
 Comprehensive error handling and recovery
 
 Copyright (c) 2025-2026 Albert Camings

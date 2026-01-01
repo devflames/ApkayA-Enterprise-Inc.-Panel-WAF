@@ -1,4 +1,4 @@
-# API Reference - Apkaya Panel WAF
+# API Reference - ApkayA Enterprise Control Panel + WAF
 
 > **Developed by Albert Camings** | Full Stack Developer
 

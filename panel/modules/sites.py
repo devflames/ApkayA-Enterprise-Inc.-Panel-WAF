@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Website Management Module
+ApkayA Enterprise Control Panel - Website Management Module
 
 Copyright (c) 2025-2026 Albert Camings
 Developed by: Albert Camings (Full Stack Developer)

@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Core Public Module
+ApkayA Enterprise Control Panel - Core Public Module
 
 Copyright (c) 2025-2026 Albert Camings
 Developed by: Albert Camings (Full Stack Developer)

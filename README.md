@@ -1,4 +1,4 @@
-# 🛡️ Apkaya Panel WAF - Server Management with Integrated Web Application Firewall
+# 🛡️ ApkayA Enterprise Control Panel + WAF - Server Management with Integrated Web Application Firewall
 
 <p align="center">
   <strong>Developed by Albert Camings</strong><br>
@@ -14,7 +14,7 @@
 
 > A modern, enterprise-grade server control panel with integrated Web Application Firewall protection, comprehensive security features, and production-grade interface design.
 
-Apkaya Panel WAF Edition is a powerful server management platform specifically designed for developers, system administrators, and enterprises who need an intuitive yet powerful server management solution. Built from the ground up on Flask with a focus on security, scalability, and exceptional user experience.
+ApkayA Enterprise Control Panel is a powerful server management platform specifically designed for developers, system administrators, and enterprises who need an intuitive yet powerful server management solution. Built from the ground up on Flask with a focus on security, scalability, and exceptional user experience.
 
 ---
 
@@ -603,7 +603,7 @@ If you find this project helpful, please consider:
 
 **Albert Camings** - Full Stack Developer
 
-Creator and maintainer of Apkaya Panel WAF. Passionate about building secure, scalable, and user-friendly server management solutions.
+Creator and maintainer of ApkayA Enterprise Control Panel. Passionate about building secure, scalable, and user-friendly server management solutions.
 
 - 🌐 Building tools that make server management accessible
 - 🔒 Security-first development approach

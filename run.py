@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Main Launcher
+ApkayA Enterprise Control Panel - Main Launcher
 
 Copyright (c) 2025-2026 Albert Camings
 Developed by: Albert Camings (Full Stack Developer)
@@ -117,7 +117,7 @@ def run_panel(port=2323, host='0.0.0.0', debug=False):
     if not debug:
         werkzeug_logging.getLogger('werkzeug').setLevel(werkzeug_logging.ERROR)
     
-    logger.info('Starting Apkaya Panel WAF...')
+    logger.info('Starting ApkayA Enterprise Control Panel...')
     
     ensure_directories()
     ensure_config_files()
@@ -126,7 +126,7 @@ def run_panel(port=2323, host='0.0.0.0', debug=False):
     
     logger.info(f'Panel starting on http://{host}:{port}')
     print(f'\n' + '='*60)
-    print(f'  Apkaya Panel WAF - Open Source Edition')
+    print(f'  ApkayA Enterprise Control Panel - Open Source Edition')
     print(f'  URL: http://localhost:{port}')
     print(f'  Licensed under MIT License')
     print(f'='*60 + '\n')
@@ -152,7 +152,7 @@ def run_waf():
 def main():
     """Main entry point"""
     parser = argparse.ArgumentParser(
-        description='Apkaya Panel WAF - Open Source Edition',
+        description='ApkayA Enterprise Control Panel - Open Source Edition',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog='''
 Examples:

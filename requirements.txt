@@ -1,4 +1,4 @@
-# Python dependencies for Apkaya Panel WAF
+# Python dependencies for ApkayA Enterprise Control Panel + WAF
 # Copyright (c) 2025-2026 Albert Camings
 # Developed by: Albert Camings (Full Stack Developer)
 # MIT License - Open Source

@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - System Information Module
+ApkayA Enterprise Control Panel - System Information Module
 
 Copyright (c) 2025-2026 Albert Camings
 Developed by: Albert Camings (Full Stack Developer)

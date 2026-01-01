@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Docker Management Module
+ApkayA Enterprise Control Panel - Docker Management Module
 Container management, images, compose, networks
 
 Copyright (c) 2025-2026 Albert Camings

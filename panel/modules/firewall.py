@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Firewall Management Module
+ApkayA Enterprise Control Panel - Firewall Management Module
 Comprehensive firewall control for iptables, firewalld, Windows Firewall
 
 Copyright (c) 2025-2026 Albert Camings

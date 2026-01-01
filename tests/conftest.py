@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Pytest Configuration
+ApkayA Enterprise Control Panel - Pytest Configuration
 Handling 'class' keyword module imports
 
 Copyright (c) 2025-2026 Albert Camings

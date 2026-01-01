@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Cron Job Scheduler Module
+ApkayA Enterprise Control Panel - Cron Job Scheduler Module
 Task scheduling, cron management, job history
 
 Copyright (c) 2025-2026 Albert Camings

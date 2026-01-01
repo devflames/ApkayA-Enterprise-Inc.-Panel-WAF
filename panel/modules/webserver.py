@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Web Server Management Module
+ApkayA Enterprise Control Panel - Web Server Management Module
 Nginx/Apache configuration, virtual hosts, rewrites, proxy settings
 
 Copyright (c) 2025-2026 Albert Camings

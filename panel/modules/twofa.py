@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Two-Factor Authentication Module
+ApkayA Enterprise Control Panel - Two-Factor Authentication Module
 TOTP (Time-based One-Time Password) and backup codes implementation
 
 Copyright (c) 2025-2026 Albert Camings
@@ -49,7 +49,7 @@ class TwoFactorAuth:
         # Generate provisioning URI for QR code
         provisioning_uri = totp.provisioning_uri(
             name=user_name,
-            issuer_name='Apkaya Panel WAF'
+            issuer_name='ApkayA Enterprise'
         )
         
         # Generate QR code

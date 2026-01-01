@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Panel Package
+ApkayA Enterprise Control Panel - Panel Package
 
 Copyright (c) 2025-2026 Albert Camings
 Developed by: Albert Camings (Full Stack Developer)

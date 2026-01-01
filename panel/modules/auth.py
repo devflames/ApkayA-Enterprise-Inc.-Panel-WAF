@@ -1,5 +1,5 @@
 """
-Apkaya Panel WAF - Authentication Module
+ApkayA Enterprise Control Panel - Authentication Module
 User login, registration, session management, and password handling
 
 Copyright (c) 2025-2026 Albert Camings

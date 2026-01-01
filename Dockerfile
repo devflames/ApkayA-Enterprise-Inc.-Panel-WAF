@@ -1,4 +1,4 @@
-# Apkaya Panel WAF - Docker Image
+# ApkayA Enterprise Control Panel - Docker Image
 # Copyright (c) 2025-2026 Albert Camings
 # Developed by: Albert Camings (Full Stack Developer)
 # License: MIT License - Open Source
