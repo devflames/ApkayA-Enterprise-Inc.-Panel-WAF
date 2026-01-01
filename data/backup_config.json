@@ -1,0 +1,14 @@
+{
+  "auto_backup": true,
+  "retention_days": 30,
+  "compression": "gzip",
+  "backups": [],
+  "schedules": [],
+  "cloud_storage": {},
+  "exclude_patterns": [
+    "*.log",
+    "*.tmp",
+    "__pycache__",
+    ".git"
+  ]
+}

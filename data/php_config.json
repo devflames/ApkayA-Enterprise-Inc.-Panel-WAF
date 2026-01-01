@@ -1,0 +1,13 @@
+{
+  "installed_versions": [],
+  "default_version": null,
+  "extensions": {},
+  "disabled_functions": [
+    "exec",
+    "passthru",
+    "shell_exec",
+    "system",
+    "proc_open",
+    "popen"
+  ]
+}

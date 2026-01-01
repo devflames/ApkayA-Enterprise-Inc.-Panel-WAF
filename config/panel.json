@@ -1,0 +1,5 @@
+{
+  "secret_key": "00114a5625db17d892df8ac5d622c8c91bdf50d1b4af994786e23d2aacce8855",
+  "session_timeout": 3600,
+  "max_login_attempts": 5
+}

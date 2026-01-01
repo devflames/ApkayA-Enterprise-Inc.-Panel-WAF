@@ -1,0 +1,8 @@
+{
+  "auto_renew": true,
+  "renew_days_before": 30,
+  "use_staging": false,
+  "email": "",
+  "certificates": {},
+  "account_key": null
+}

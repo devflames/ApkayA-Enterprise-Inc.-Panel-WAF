@@ -1,0 +1,85 @@
+{
+  "version": "1.0",
+  "roles": {
+    "admin": {
+      "name": "Administrator",
+      "description": "Full system access",
+      "permissions": [
+        "users.create",
+        "users.read",
+        "users.update",
+        "users.delete",
+        "roles.create",
+        "roles.read",
+        "roles.update",
+        "roles.delete",
+        "permissions.create",
+        "permissions.read",
+        "permissions.update",
+        "permissions.delete",
+        "sites.create",
+        "sites.read",
+        "sites.update",
+        "sites.delete",
+        "database.create",
+        "database.read",
+        "database.update",
+        "database.delete",
+        "files.create",
+        "files.read",
+        "files.update",
+        "files.delete",
+        "waf.read",
+        "waf.update",
+        "system.read",
+        "logs.read",
+        "audit.read",
+        "settings.read",
+        "settings.update"
+      ],
+      "level": 10
+    },
+    "operator": {
+      "name": "Operator",
+      "description": "System management and monitoring",
+      "permissions": [
+        "sites.read",
+        "sites.update",
+        "database.read",
+        "database.update",
+        "files.read",
+        "files.update",
+        "waf.read",
+        "system.read",
+        "logs.read",
+        "audit.read"
+      ],
+      "level": 5
+    },
+    "user": {
+      "name": "User",
+      "description": "Limited system access",
+      "permissions": [
+        "sites.read",
+        "database.read",
+        "files.read",
+        "system.read"
+      ],
+      "level": 1
+    },
+    "guest": {
+      "name": "Guest",
+      "description": "View-only access",
+      "permissions": [
+        "system.read"
+      ],
+      "level": 0
+    }
+  },
+  "user_roles": {
+    "1": [
+      "admin"
+    ]
+  },
+  "created_at": "2026-01-01T00:10:27.477853"
+}

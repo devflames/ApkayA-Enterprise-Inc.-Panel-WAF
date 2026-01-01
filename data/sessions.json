@@ -1,0 +1,13 @@
+{
+  "RkKQLu5xq9w3wKKZ_ONJJGFoNgayLcqexln_pvOmWtc": {
+    "user_id": "1",
+    "username": "testuser",
+    "email": "test@test.com",
+    "roles": [
+      "user"
+    ],
+    "created_at": "2026-01-01T04:16:01.895228",
+    "expires_at": "2026-01-02T04:16:01.895228",
+    "last_activity": "2026-01-01T04:16:01.895228"
+  }
+}

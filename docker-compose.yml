@@ -1,0 +1,90 @@
+# Apkaya Panel WAF - Docker Compose Configuration
+# Copyright (c) 2025-2026 Albert Camings
+# Developed by: Albert Camings (Full Stack Developer)
+# License: MIT License - Open Source
+
+version: '3.8'
+
+services:
+  apkaya-panel:
+    build: .
+    container_name: apkaya-panel-waf
+    ports:
+      - "2323:2323"
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./config:/app/config
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./backup:/app/backup
+      - ./ssl:/app/ssl
+      - /var/run/docker.sock:/var/run/docker.sock  # For Docker management
+    environment:
+      - FLASK_ENV=production
+      - FLASK_DEBUG=false
+      - DB_HOST=mysql
+      - DB_USER=apkaya_user
+      - DB_PASSWORD=apkaya_password
+      - DB_NAME=apkaya_panel
+      - REDIS_URL=redis://redis:6379/0
+    depends_on:
+      - mysql
+      - redis
+    networks:
+      - apkaya-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:2323/api/system/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  mysql:
+    image: mysql:8.0
+    container_name: apkaya-mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=root_password
+      - MYSQL_USER=apkaya_user
+      - MYSQL_PASSWORD=apkaya_password
+      - MYSQL_DATABASE=apkaya_panel
+    volumes:
+      - mysql_data:/var/lib/mysql
+    ports:
+      - "3306:3306"
+    networks:
+      - apkaya-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: apkaya-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - apkaya-network
+    restart: unless-stopped
+    command: redis-server --appendonly yes
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  mysql_data:
+    driver: local
+  redis_data:
+    driver: local
+
+networks:
+  apkaya-network:
+    driver: bridge

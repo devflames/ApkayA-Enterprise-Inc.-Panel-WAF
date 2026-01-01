@@ -1,0 +1,27 @@
+{
+  "rate_limits": {
+    "admin": {
+      "requests_per_minute": 1000,
+      "requests_per_hour": 100000
+    },
+    "operator": {
+      "requests_per_minute": 500,
+      "requests_per_hour": 50000
+    },
+    "user": {
+      "requests_per_minute": 100,
+      "requests_per_hour": 10000
+    },
+    "guest": {
+      "requests_per_minute": 10,
+      "requests_per_hour": 1000
+    }
+  },
+  "api_key_expiry_days": 90,
+  "require_api_signing": true,
+  "require_https": false,
+  "allowed_ips": [],
+  "blocked_ips": [],
+  "rate_limit_reset_window": 60,
+  "api_version": "1.0"
+}

@@ -1,0 +1,16 @@
+{
+  "server_type": "vsftpd",
+  "users": [],
+  "settings": {
+    "anonymous_enable": false,
+    "local_enable": true,
+    "write_enable": true,
+    "chroot_local_user": true,
+    "allow_writeable_chroot": true,
+    "pasv_min_port": 40000,
+    "pasv_max_port": 40100,
+    "max_clients": 100,
+    "max_per_ip": 5,
+    "idle_session_timeout": 600
+  }
+}

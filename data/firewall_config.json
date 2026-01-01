@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "default_policy": "drop",
+  "rules": [],
+  "ip_blacklist": [],
+  "ip_whitelist": [],
+  "port_rules": [],
+  "rate_limits": {},
+  "country_blocks": []
+}
