@@ -12,9 +12,9 @@
 [![API Routes](https://img.shields.io/badge/api%20routes-174%2B-blue)]()
 [![Author](https://img.shields.io/badge/author-Albert%20Camings-purple)]()
 
-> A modern, English-first server control panel with integrated Web Application Firewall protection, comprehensive security features, and production-grade interface design.
+> A modern, enterprise-grade server control panel with integrated Web Application Firewall protection, comprehensive security features, and production-grade interface design.
 
-Apkaya Panel WAF Edition is a clean English fork of aaPanel, specifically designed for developers and system administrators who need a powerful yet intuitive server management solution. Built on Flask with a focus on security, scalability, and exceptional user experience.
+Apkaya Panel WAF Edition is a powerful server management platform specifically designed for developers, system administrators, and enterprises who need an intuitive yet powerful server management solution. Built from the ground up on Flask with a focus on security, scalability, and exceptional user experience.
 
 ---
 
@@ -408,20 +408,20 @@ See [Deployment Guide](docs/DEPLOYMENT.md) for detailed setup instructions.
 
 ---
 
-## 🎯 Feature Comparison Matrix
+## 🎯 Key Feature Matrix
 
-| Feature | Apkaya Panel WAF | Standard aaPanel |
-|---------|-----------------|------------------|
-| **WAF Integration** | ✅ Built-in | ❌ Plugin only |
-| **2FA Authentication** | ✅ TOTP | ✅ Basic |
-| **API Endpoints** | ✅ 174+ | ✅ ~100 |
-| **English UI** | ✅ 100% | ⚠️ Machine translated |
-| **Modern Design** | ✅ Gradient UI | ⚠️ Legacy design |
-| **Docker Support** | ✅ Full | ⚠️ Limited |
-| **Rate Limiting** | ✅ Advanced | ⚠️ Basic |
-| **Responsive Mobile** | ✅ Yes | ❌ No |
-| **Audit Logging** | ✅ Comprehensive | ⚠️ Basic |
-| **Bot Detection** | ✅ Yes | ❌ No |
+| Feature | Status | Description |
+|---------|--------|-------------|
+| **WAF Integration** | ✅ Built-in | Real-time threat detection and prevention |
+| **2FA Authentication** | ✅ TOTP | Google Authenticator compatible |
+| **API Endpoints** | ✅ 174+ | Full REST API coverage |
+| **Modern UI** | ✅ Gradient Design | Clean, responsive interface |
+| **Docker Support** | ✅ Full | Container lifecycle management |
+| **Rate Limiting** | ✅ Advanced | Per-IP and per-endpoint controls |
+| **Mobile Responsive** | ✅ Yes | Works on all devices |
+| **Audit Logging** | ✅ Comprehensive | Full activity tracking |
+| **Bot Detection** | ✅ Yes | Automated threat filtering |
+| **CDN Ready** | 🔜 Phase 2 | Gaming & blockchain CDN support |
 
 ---
 
@@ -576,8 +576,6 @@ pytest tests/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Note**: This is a community-driven fork of aaPanel. Respect the original aaPanel project and community.
-
 ---
 
 ## ⭐ Show Your Support
@@ -594,10 +592,10 @@ If you find this project helpful, please consider:
 ## 🙏 Acknowledgments
 
 - **Albert Camings** - Project Creator & Full Stack Developer
-- **aaPanel Team** - Original project inspiration
 - **Flask Community** - Excellent web framework
 - **Open Source Contributors** - Community support and feedback
 - **Security Researchers** - Responsible disclosure and security improvements
+- **Enterprise Users** - Valuable feedback and feature requests
 
 ---
 
@@ -620,7 +618,7 @@ Creator and maintainer of Apkaya Panel WAF. Passionate about building secure, sc
 - **API Routes**: 174+
 - **Core Modules**: 8 (SSL, Firewall, Backup, Cron, Webserver, PHP, FTP, Docker)
 - **Test Coverage**: 44 unit tests (all passing)
-- **Feature Parity**: 90% with aaPanel
+- **Platform**: Enterprise-grade server management
 - **Languages**: Python, JavaScript, HTML5, CSS3
 
 ---
